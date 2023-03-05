@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://passwordgenerator.artis7eer.live/sitemap.xml

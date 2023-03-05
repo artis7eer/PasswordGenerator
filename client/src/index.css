@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Kanit', sans-serif;
+}
+body{
+  color:#262626;
+}
+
+.site-header{
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.main{
+  display: grid;
+  margin: 15px;
+}
+.main>*{
+  padding: 7px;
+}
+
+.page-content{
+  margin:20px;
+}
