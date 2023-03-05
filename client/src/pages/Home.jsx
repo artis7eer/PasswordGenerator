@@ -156,7 +156,7 @@ function Home() {
           </Button>
           <CopyToClipboard text={password} onCopy={() => setCopyStatus(true)}>
             <Button colorScheme="gray" m={2}>
-              {copied ? "Copied to Clipboard" : "Copy"}
+              {copied ? "Copied" : "Copy"}
             </Button>
           </CopyToClipboard>
         </Center>
