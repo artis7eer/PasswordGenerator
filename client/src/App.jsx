@@ -5,7 +5,7 @@ import { Home, About, PrivacyPolicy, Terms, Contact } from "./pages/Index";
 import { Text,Center} from '@chakra-ui/react';
 
 function Error(){
-  return<Center>
+  return <Center>
     <Text as='b'>404 Page Not Found</Text>
   </Center>
 }
