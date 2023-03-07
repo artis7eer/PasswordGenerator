@@ -68,6 +68,14 @@ export default function PrivacyPolicy() {
               Google Analytics
             </a>
           </li>
+          <li>
+           <a href="https://adsterra.com/privacy-policy-managed/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Adsterra
+            </a>
+          </li>
+   
         </ul>
       </div>
       <p>
