@@ -9,6 +9,11 @@ function Error(){
     <Text as='b'>404 Page Not Found</Text>
   </Center>
 }
+
+const Footer = () =>{
+  return <Center>Created By Abdul Razaq A</Center>
+}
+
 function App() {
   return (
     <>
@@ -23,6 +28,7 @@ function App() {
             <Route path="/contact-us" element={<Contact />} />
             <Route path="*" element={<Error />} />
           </Routes>
+          <Footer/>
         </Router>
       </ChakraProvider>
     </>
